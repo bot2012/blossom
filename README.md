@@ -1,2 +1,2 @@
 # blossom
-Contains all coding assignments completed when doing the blossom programme. This is mostly python codes
+Contains all coding assignments completed when doing the blossom followship programme. This is mostly python codes
